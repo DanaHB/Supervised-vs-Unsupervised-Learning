@@ -25,5 +25,11 @@ The implementation follows a practical data science workflow:
 
 ## 5. Project Files
 For the detailed analysis, ROC curves, and confusion matrices:
-* [ML Analysis Part 1: Supervised Learning](./ML1.pdf)
-* [ML Analysis Part 2: SVM & Clustering](./ML2.pdf)
+* **Part 1: Classification (Naive Bayes & Logistic Regression)**
+  * [View Source Code (Colab))](./ML1part1_)
+  * [View Source Code (Colab)](./ML1part2_)
+  * [View Full Technical Report (PDF)](./ML1.pdf)
+
+* **Part 2: SVM & Clustering (K-Means, Hierarchical)**
+  * [View Source Code (Colab)](./ML2.ipynb)
+  * [View Full Technical Report (PDF)](./ML2.pdf)
