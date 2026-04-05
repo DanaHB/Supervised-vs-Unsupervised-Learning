@@ -18,7 +18,7 @@ The implementation follows a practical data science workflow:
 * **Importance of Preprocessing:** Scaling was a mandatory step. Since models like **SVM** and **K-Means** rely on **Distances**, scaling prevents features with large values from dominating the model's calculations.
 * **Clustering Insights:** While clustering helped in exploring the data structure, the discovered clusters (K-Means & Hierarchical) did not align perfectly with the true labels, making them less suitable for direct classification in these cases.
 
-## 4. Technical Stack
+## 4. Technologies Used
 * **Language:** Python
 * **Environment:** Google Colab
 * **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
